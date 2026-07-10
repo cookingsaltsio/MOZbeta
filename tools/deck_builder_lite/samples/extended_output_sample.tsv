@@ -1,0 +1,4 @@
+question	answer	choice1	choice2	choice3	choice4	correct	choice_exclude_words	choice_group	choice1_explanation	choice2_explanation	choice3_explanation	choice4_explanation	explanation	source	tts_text	tts_lang	tts_auto	example_tts	example_tts_lang
+予定を（ ）する。	延期	延長	延期	延命	延焼	延期			長さや期間を伸ばすこと。	予定日や期限を先へずらすこと。	命を長らえさせること。	火が燃え広がること。	「予定」と組み合わせる場合は「延期」が自然です。	自作サンプル	予定を延期する。	ja-JP	true	The meeting was postponed.	en-US
+{{c1::東京}}は日本の首都です。													東京を隠したCloze例です。	自作サンプル	東京は日本の首都です。	ja-JP		Tokyo is the capital of Japan.	en-US
+晨光计划	朝の学習計画						星光计划、晨读任务	sim_sample_01					架空の中国語風単語帳例です。	自作サンプル	晨光计划	zh-CN		今天早上复习十分钟。	zh-CN

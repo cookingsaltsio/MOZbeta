@@ -1,0 +1,65 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+local.properties
+.idea/
+.DS_Store
+Thumbs.db
+/build
+build/
+**/build/
+app/build/
+dist/
+out/
+tmp/
+/captures
+.externalNativeBuild
+.cxx
+
+# Local secrets
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+id_rsa
+id_dsa
+id_ecdsa
+id_ed25519
+credentials*.json
+service-account*.json
+serviceAccount*.json
+google-services.json
+
+# Signing keys
+*.jks
+*.keystore
+
+# Android build artifacts
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# Personal exports / backups / learning data
+*.zip
+*.bak
+*.tmp
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+*.realm
+.mozbuild.json
+
+# Personal JSON exports / backups only.
+# Do not ignore required project files such as package.json or manifest.json globally.
+*_backup.json
+*backup*.json
+learning_data*.json
+export*.json
